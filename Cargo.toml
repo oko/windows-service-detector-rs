@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Jacob Okamoto <oko+github@oko.io>"]
 license = "MIT"
 repository = "https://github.com/oko/windows-service-detector-rs"
+description = "A Rust crate that provides Windows Service runtime environment detection."
 
 [dependencies.windows]
 version = "0.48.0"
